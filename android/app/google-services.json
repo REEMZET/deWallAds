@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "325164339395",
+    "firebase_url": "https://dewall-7-default-rtdb.firebaseio.com",
+    "project_id": "dewall-7",
+    "storage_bucket": "dewall-7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325164339395:android:033e68c9884f478ae25276",
+        "android_client_info": {
+          "package_name": "com.dewall.dewallads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325164339395-9b36ojvbmou1rqrngn5td5n0hmkcmfui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dewall.dewallads",
+            "certificate_hash": "d3510bac4518fae7330555b1a8740ac0a2bbe549"
+          }
+        },
+        {
+          "client_id": "325164339395-vg8fjvjq99vsf5i2k03ji6ngrb8vcsa9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dewall.dewallads",
+            "certificate_hash": "8e1066f10aa0a1efad9514b3d566248ed36ac953"
+          }
+        },
+        {
+          "client_id": "325164339395-n3iii0310vbmkvnlf8330ln9l3j5a3bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLaNC4DZUfWYoIEy8pXVNleJcXQsGUtBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325164339395-n3iii0310vbmkvnlf8330ln9l3j5a3bm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "325164339395-aq85u9j6rd77hu21163se68t53d5j9eo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dewall.dewallads"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
